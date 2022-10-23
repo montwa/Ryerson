@@ -15,9 +15,9 @@ Literature Review Papers: contains some of the papers, not all that are quoted o
 
 Precios-área-y-producción-de-café.xlsx: Is the file in Excel where the data comes from, however the data can be downloaded directly from this link https://federaciondecafeteros.org/app/uploads/2020/01/Precios-%C3%A1rea-y-producci%C3%B3n-de-caf%C3%A9.xlsx
 
-Coffee Price Regression Analysis.ipynb : Is the Jupiter Notebook file where I am doing the project
+Coffee Price Regression Analysis.ipynb : Is the Official Jupiter Notebook for the project
 
-Coffee Price Regression Analysis another version.ipynb: Is a Jupiter notebook just for testing purposes
+Code test.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
 
 Simon Atehortua
 Ryerson ID 501094927
