@@ -19,7 +19,11 @@ Precios-área-y-producción-de-café.xlsx: Is the file in Excel where the data c
 
 Coffee Price Regression Analysis.ipynb : Is the Official Jupiter Notebook for the project
 
-Code test.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
+Testing Codes.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
+
+Checking for Normality.ipynb: is a Jupiter notebook, independant that checks for Normality with the model created for regression, will be added to the project but runs parallel to Coffee Price Regression Analysis.ipynb
+
+neural_network.npz : is a numpy file created in order to work with the neural network
 
 Simon Atehortua
 Ryerson ID 501094927
