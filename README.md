@@ -66,6 +66,43 @@ Coffee Price Regression Analysis.ipynb : Is the Official Jupiter Notebook for th
     3.6.4 SVM Support Vector Machine Regressor Normalized 
     
     3.6.5 Neural Network
+    
+4 Start of Machine Learning Refression Algorithms with Cross Validation
+
+  4.1 Regressions Not Normalized
+    
+    4.1.1 Methodology
+  
+  4.2 Split the data frame into X and y
+  
+  4.3 Cross Validation
+  
+    4.3.1 Linear Regression
+    
+    4.3.2 Decision Tree Regressor
+    
+    4.3.3 LASSO Regressor (least Absolute Shrinkage and Selection Operator)
+    
+    4.3.4 SVM Support vector Machine Regressor
+    
+  4.4 Regressions Normalized
+  
+    4.4.1 Methodology 
+    
+  4.5 Split the data frame intro Train (X) and Test (y) 
+  
+  4.6 Normalize with StandarsScaler 
+  
+  4.7  Cross Validation
+  
+    4.7.1 Linear Regression Normalized 
+    
+    4.7.2 Decision Tree Regressor Normalized 
+    
+    4.7.3 LASSO Regressor (Least Absolute Shrinkage and Selection Operator) 
+    
+    4.7.4 SVM Support Vector Machine Regressor Normalized 
+    
 
 Testing Codes.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
 
