@@ -33,75 +33,83 @@ Coffee Price Regression Analysis.ipynb : Is the Official Jupiter Notebook for th
   
 3 Model: 
 
-  3.1 Regressions Not Normalized
-  
-    3.1.1 Methodology 
-    
-  3.2 Create X train, X test, Y train and Y test
-  
-    3.2.1 Linear Regression 
-    
-    3.2.2 Decision Tree Regressor 
-    
-    3.2.3 LASSO Regressor (Least Absolute Shrinkage and Selection Operator)
-    
-    3.2.4 SVM Support Vector Machine Regressor 
-    
-  3-3 Regressions Normalized
-  
-    3.3.1 Methodology 
-    
-  3-4 Split the data frame intro Train (X) and Test (y) 
-  
-  3-5 Normalize with StandarsScaler 
-  
-  3.6 Create X train, X test, Y train and Y test
-  
-    3.6.1 Linear Regression Normalized 
-    
-    3.6.2 Decision Tree Regressor Normalized 
-    
-    3.6.3 LASSO Regressor (Least Absolute Shrinkage and Selection Operator) 
-    
-    3.6.4 SVM Support Vector Machine Regressor Normalized 
-    
-    3.6.5 Neural Network
-    
-4 Start of Machine Learning Refression Algorithms with Cross Validation
+4 Start of Machine Learning regression Algorithms with train_test_split()
 
   4.1 Regressions Not Normalized
-    
-    4.1.1 Methodology
   
-  4.2 Split the data frame into X and y
+    4.1.1 Methodology 
+    
+    4.1.2 Create X train, X test, Y train and Y test
   
-  4.3 Cross Validation
-  
-    4.3.1 Linear Regression
+    4.1.3 Linear Regression 
     
-    4.3.2 Decision Tree Regressor
+    4.1.4 Decision Tree Regressor 
     
-    4.3.3 LASSO Regressor (least Absolute Shrinkage and Selection Operator)
+    4.1.5 LASSO Regressor (Least Absolute Shrinkage and Selection Operator)
     
-    4.3.4 SVM Support vector Machine Regressor
+    4.1.6 SVM Support Vector Machine Regressor 
     
-  4.4 Regressions Normalized
+  4.2 Regressions Normalized
   
     4.4.1 Methodology 
     
-  4.5 Split the data frame intro Train (X) and Test (y) 
+    4.2.2 Split the data frame intro Train (X) and Test (y) 
   
-  4.6 Normalize with StandarsScaler 
+    4.2.3 Normalize with StandarsScaler 
   
-  4.7  Cross Validation
+    4.2.4 Create X train, X test, Y train and Y test
   
-    4.7.1 Linear Regression Normalized 
+    4.2.5 Linear Regression Normalized 
     
-    4.7.2 Decision Tree Regressor Normalized 
+    4.2.6 Decision Tree Regressor Normalized 
     
-    4.7.3 LASSO Regressor (Least Absolute Shrinkage and Selection Operator) 
+    4.2.7 LASSO Regressor (Least Absolute Shrinkage and Selection Operator) 
     
-    4.7.4 SVM Support Vector Machine Regressor Normalized 
+    4.2.8 SVM Support Vector Machine Regressor Normalized 
+    
+    4.2.9 Neural Network
+    
+5 Start of Machine Learning Refression Algorithms with Cross Validation
+
+  5.1 Regressions Not Normalized
+    
+    5.1.1 Methodology
+  
+    5.1.2 Split the data frame into X and y
+  
+    5.1.3 Cross Validation
+  
+    5.1.4 Linear Regression
+    
+    5.1.5 Decision Tree Regressor
+    
+    5.1.6 LASSO Regressor (least Absolute Shrinkage and Selection Operator)
+    
+    5.1.7 SVM Support vector Machine Regressor
+    
+  5.2 Regressions Normalized
+  
+    5.2.1 Methodology 
+    
+    5.2.2 Split the data frame intro Train (X) and Test (y) 
+  
+    5.2.3 Normalize with StandarsScaler 
+  
+    5.2.4  Cross Validation
+  
+    5.2.5 Linear Regression Normalized 
+    
+    5.2.6 Decision Tree Regressor Normalized 
+    
+    5.2.7 LASSO Regressor (Least Absolute Shrinkage and Selection Operator) 
+    
+    5.2.8 SVM Support Vector Machine Regressor Normalized
+  
+  6 Efficiency or Timing of the Algoritms
+  
+  7 Effectiveness in Cross Validation
+  
+  8 Effectiveness in Train Set and Test set
     
 
 Testing Codes.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
