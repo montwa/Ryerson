@@ -114,7 +114,7 @@ Coffee Price Regression Analysis.ipynb : Is the Official Jupiter Notebook for th
 
 Testing Codes.ipynb: Is a Jupiter notebook just for testing purposes, code updates and ideas
 
-Checking for Normality.ipynb: is a Jupiter notebook, independant that checks for Normality with the model created for regression, will be added to the project but runs parallel to Coffee Price Regression Analysis.ipynb
+Checking_for_Normality.ipynb: is a Jupiter notebook, independant that checks for Normality with the model created for regression, will be added to the project but runs parallel to Coffee Price Regression Analysis.ipynb
 
 neural_network.npz : is a numpy file created in order to work with the neural network
 
